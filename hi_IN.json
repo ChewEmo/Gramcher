@@ -1,0 +1,12 @@
+{
+  "title": "Gramcher GUI",
+  "toolbar_title": "उपकरण पट्टी",
+  "collapse": "उपकरण पट्टी संक्षिप्त करें",
+  "expand": "उपकरण पट्टी विस्तृत करें",
+  "language": "भाषा",
+  "input": "इनपुट बॉक्स",
+  "output": "आउटपुट बॉक्स",
+  "search_blanks": "कोड रिक्त स्थान खोजें",
+  "special_chars": "विशेष चीनी अक्षर खोजें",
+  "watermark": "VMO Developed"
+}

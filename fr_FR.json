@@ -1,0 +1,12 @@
+{
+  "title": "Interface Gramcher",
+  "toolbar_title": "Barre d'outils",
+  "collapse": "Réduire la barre d'outils",
+  "expand": "Afficher la barre d'outils",
+  "language": "Langue",
+  "input": "Boîte de saisie",
+  "output": "Boîte de sortie",
+  "search_blanks": "Rechercher les espaces de code",
+  "special_chars": "Rechercher les caractères chinois spéciaux",
+  "watermark": "VMO Developed"
+}

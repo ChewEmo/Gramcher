@@ -1,0 +1,12 @@
+{
+  "title": "Графический интерфейс Gramcher",
+  "toolbar_title": "Панель инструментов",
+  "collapse": "Свернуть панель",
+  "expand": "Развернуть панель",
+  "language": "Язык",
+  "input": "Поле ввода",
+  "output": "Поле вывода",
+  "search_blanks": "Найти пробелы в коде",
+  "special_chars": "Найти специальные китайские символы",
+  "watermark": "VMO Developed"
+}

@@ -1,0 +1,12 @@
+{
+  "title": "Gramcher GUI",
+  "toolbar_title": "ツールバー",
+  "collapse": "ツールバーを折りたたむ",
+  "expand": "ツールバーを展開",
+  "language": "言語",
+  "input": "入力ボックス",
+  "output": "出力ボックス",
+  "search_blanks": "コード空白を検索",
+  "special_chars": "特殊な中国語文字を検索",
+  "watermark": "VMO Developed"
+}

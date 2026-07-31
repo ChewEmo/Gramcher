@@ -1,0 +1,12 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Gramcher EXE",
+			"type": "shell",
+			"command": "cmd /c build_exe.bat",
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

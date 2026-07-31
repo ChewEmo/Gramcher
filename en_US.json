@@ -1,0 +1,12 @@
+{
+  "title": "Gramcher GUI",
+  "toolbar_title": "Toolbar",
+  "collapse": "Collapse Toolbar",
+  "expand": "Expand Toolbar",
+  "language": "Language",
+  "input": "Input Box",
+  "output": "Output Box",
+  "search_blanks": "Find Code Whitespace",
+  "special_chars": "Find Special Chinese Characters",
+  "watermark": "VMO Developed"
+}

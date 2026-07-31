@@ -1,0 +1,12 @@
+{
+  "title": "Gramcher 图形界面",
+  "toolbar_title": "工具栏",
+  "collapse": "折叠工具栏",
+  "expand": "展开工具栏",
+  "language": "语言",
+  "input": "输入框",
+  "output": "输出框",
+  "search_blanks": "查找代码空格",
+  "special_chars": "查找特殊中文字符",
+  "watermark": "VMO Developed"
+}
