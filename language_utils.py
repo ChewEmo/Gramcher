@@ -19,13 +19,24 @@ LANGUAGE_FILES = {
 }
 
 
+_translation_cache = {}
+
+
 def load_translations(language_name):
+    cached = _translation_cache.get(language_name)
+    if cached is not None:
+        return cached
     file_name = LANGUAGE_FILES.get(language_name, "zh_CN.json")
     file_path = get_resource_path(file_name)
     if not os.path.exists(file_path):
         return {}
-    with open(file_path, "r", encoding="utf-8") as handle:
-        return json.load(handle)
+    try:
+        with open(file_path, "r", encoding="utf-8") as handle:
+            data = json.load(handle)
+    except Exception:
+        return {}
+    _translation_cache[language_name] = data
+    return data
 
 
 def collect_suspicious_characters(text):
@@ -45,9 +56,9 @@ def collect_suspicious_characters(text):
         "English": [],
     }
 
-    chinese_chars = "，。！？；：、（）【】《》“”‘’…—・"
+    chinese_chars = "，。！？；：、（）【】《》“”‘’"
     japanese_chars = "「」・゛゜"
-    russian_chars = "«»—…"
+    russian_chars = "«»"
     hindi_chars = "。॥॰"
     french_chars = "«»œæŒÆÀÂÄÇÉÈÊËÎÏÔÖÙÛÜŸàâäçéèêëîïôöùûüÿ"
 

@@ -8,5 +8,14 @@
   "output": "Boîte de sortie",
   "search_blanks": "Rechercher les espaces de code",
   "special_chars": "Rechercher les caractères chinois spéciaux",
+  "detect_language": "Détecter les caractères spéciaux par langue",
+  "detect_found": "Caractères potentiellement ambigus détectés :",
+  "detect_none": "Aucun caractère potentiellement ambigu détecté.",
+  "copy_result": "Copier le résultat",
+  "clear_input": "Effacer la saisie",
+  "copied": "Copié",
+  "stats_chars": "Caractères",
+  "stats_lines": "Lignes",
+  "run_hint": "Exécuter avec Ctrl+Entrée",
   "watermark": "VMO Developed"
 }

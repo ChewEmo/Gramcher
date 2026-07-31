@@ -8,5 +8,14 @@
   "output": "出力ボックス",
   "search_blanks": "コード空白を検索",
   "special_chars": "特殊な中国語文字を検索",
+  "detect_language": "言語別の特殊文字を判定",
+  "detect_found": "誤判定しやすい文字を検出しました：",
+  "detect_none": "誤判定しやすい文字は検出されませんでした。",
+  "copy_result": "結果をコピー",
+  "clear_input": "入力をクリア",
+  "copied": "コピーしました",
+  "stats_chars": "文字",
+  "stats_lines": "行",
+  "run_hint": "Ctrl+Enter で実行",
   "watermark": "VMO Developed"
 }

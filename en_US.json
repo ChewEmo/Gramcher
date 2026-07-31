@@ -8,5 +8,14 @@
   "output": "Output Box",
   "search_blanks": "Find Code Whitespace",
   "special_chars": "Find Special Chinese Characters",
+  "detect_language": "Detect Language-Specific Characters",
+  "detect_found": "Detected potentially confusing characters:",
+  "detect_none": "No potentially confusing characters detected.",
+  "copy_result": "Copy Result",
+  "clear_input": "Clear Input",
+  "copied": "Copied",
+  "stats_chars": "Characters",
+  "stats_lines": "Lines",
+  "run_hint": "Run with Ctrl+Enter",
   "watermark": "VMO Developed"
 }

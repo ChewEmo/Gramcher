@@ -3,8 +3,8 @@ import subprocess
 import sys
 from pathlib import Path
 
-project_dir = Path(r"b:\Gramcher\v1.0.0")
-python_exe = r"B:\Python 3.14.6\python.exe"
+project_dir = Path(__file__).resolve().parent
+python_exe = sys.executable
 
 print("Installing PyInstaller...")
 subprocess.check_call([python_exe, "-m", "pip", "install", "--user", "pyinstaller"], cwd=str(project_dir))

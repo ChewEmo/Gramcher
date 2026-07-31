@@ -8,5 +8,14 @@
   "output": "输出框",
   "search_blanks": "查找代码空格",
   "special_chars": "查找特殊中文字符",
+  "detect_language": "判断不同语言特殊字符",
+  "detect_found": "检测到容易误判字符：",
+  "detect_none": "未检测到容易误判字符。",
+  "copy_result": "复制结果",
+  "clear_input": "清空输入",
+  "copied": "已复制",
+  "stats_chars": "字符",
+  "stats_lines": "行",
+  "run_hint": "按 Ctrl+Enter 运行",
   "watermark": "VMO Developed"
 }

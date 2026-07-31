@@ -8,5 +8,14 @@
   "output": "आउटपुट बॉक्स",
   "search_blanks": "कोड रिक्त स्थान खोजें",
   "special_chars": "विशेष चीनी अक्षर खोजें",
+  "detect_language": "भाषा-विशिष्ट वर्ण पहचानें",
+  "detect_found": "भ्रमित करने वाले वर्ण मिले:",
+  "detect_none": "कोई भ्रमित करने वाला वर्ण नहीं मिला।",
+  "copy_result": "परिणाम कॉपी करें",
+  "clear_input": "इनपुट साफ़ करें",
+  "copied": "कॉपी हो गया",
+  "stats_chars": "अक्षर",
+  "stats_lines": "पंक्तियाँ",
+  "run_hint": "Ctrl+Enter से चलाएँ",
   "watermark": "VMO Developed"
 }

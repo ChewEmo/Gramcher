@@ -8,5 +8,14 @@
   "output": "Поле вывода",
   "search_blanks": "Найти пробелы в коде",
   "special_chars": "Найти специальные китайские символы",
+  "detect_language": "Определить символы разных языков",
+  "detect_found": "Обнаружены легко спутываемые символы:",
+  "detect_none": "Легко спутываемые символы не обнаружены.",
+  "copy_result": "Скопировать результат",
+  "clear_input": "Очистить ввод",
+  "copied": "Скопировано",
+  "stats_chars": "Символов",
+  "stats_lines": "Строк",
+  "run_hint": "Запуск: Ctrl+Enter",
   "watermark": "VMO Developed"
 }
